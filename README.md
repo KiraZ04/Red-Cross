@@ -1,4 +1,3 @@
-# Red-Cross
 <!DOCTYPE html>
 <html lang="ru">
 <head>
